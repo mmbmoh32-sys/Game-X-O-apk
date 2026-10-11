@@ -1,0 +1,6 @@
+{
+  "name": "Neon XO",
+  "description": "Real-time online & local multiplayer Tic-Tac-Toe with neon glow aesthetics, Minimax AI, room codes, live emoji reactions, and turn timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
